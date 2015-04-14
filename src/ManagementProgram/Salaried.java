@@ -57,7 +57,7 @@ public class Salaried extends Employee{
     }
     
     /**
-     * returns a string that contains information about the salaried employee.
+     * returns a string that contains some information about the salaried employee.
      * @return information about the salaried employee.
      */
     @Override
