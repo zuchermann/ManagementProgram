@@ -14,7 +14,7 @@ public class Main {
     
     
     /**
-     * Main method to initiate the program.
+     * Main method to start the Management Program.
      * @param args terminal arguments.
      */
     public static void main(String[] args) {
